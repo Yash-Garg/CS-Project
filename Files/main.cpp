@@ -69,6 +69,8 @@ class telephone {
     	cout<<b_phone;
     	cout<<"\n\n\t\tEmail: ";
     	cout<<email;
+		cout<<endl<<endl;
+		system("pause");
     }
 
 	void disp_name_phone() {
